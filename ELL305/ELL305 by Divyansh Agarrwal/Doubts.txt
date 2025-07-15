@@ -1,0 +1,11 @@
+Language of Bits:
+
+Assembly Language:
+
+x86 ISA Doubts:
+# DF = ?
+# Floating-point Registers*
+# enter and leave
+# Floating-point Instructions*
+
+Digital Logic:
