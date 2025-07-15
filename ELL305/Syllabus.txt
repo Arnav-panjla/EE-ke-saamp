@@ -1,0 +1,41 @@
+[Thu 16-11 03:41 pm] Saurabh GandhiSections from Sarangi book
+    In many cases below, the book goes into much more detail than what we discussed in class. You are not expected to know these details. Whatever was discussed in the class will be sufficient for the exam. So use a combination of slides and the textbook to study only the relevant sections.
+
+Microarchitecture
+
+8.1, 8.2, 8.3, 8,4, 8.5, 8.7
+Things not in the book (refer the slides for these):
+
+
+	
+Some details of microprogramming that we covered are indirectly covered in 8.6, but we did not directly discuss microassembly language.
+	
+We discussed how the microprogrammed datapath and control works. This is also covered in 8.8 but we did not discuss it in so much detail.
+	
+ROM based control vs combinational control
+
+9.1, 9.2, 9.3, 9.4, 9.9, 
+
+
+	
+9.5, 9.6, 9.7, 9.8 was covered at a high level, but the book goes into many details. You can refer to the slides for these and need not study all details in the book
+	
+Interrupts and exceptions (9.8) was covered in the I/O classes
+
+
+I/O
+
+12.1, 12.6, 12.8.1
+
+
+	
+12.8.2, 12.8.4 were covered in less detail compared to the book
+
+
+Caches
+
+10.1, 10.2, 10.3
+
+Virtual Memory
+
+10.4 (skip inverted page tables)

@@ -1,0 +1,32 @@
+Bluetooth: over radio
+has a master and slaves (upto 128)
+- all are not equal
+- 736kHz
+- A hop sequence is first sent to a slave from master (a sequence of diferent frequencies)
+- Different hop sequence is different for different slaves, only that slave knows it's hop sequence.
+- Pairing    ^
+         ----|
+
+Arbitration:
+Arbite ->  German for work
+2 types of arbritation: centralised and daisy chain
+Arbiter -> The master device we have been talking
+
+
+
+
+Protocols: needed to resolve conflicts (eg: when 2 devices try to comunicate  at the same time)
+Language used to specify protocols: SDL (Specification Description Language)
+
+
+Intersil 8255: General Purpose programmable I/O device
+
+16550 UART (Universal ...) (2x8250)
+
+
+FlexRay bus: higher-end cars, CAN in lower end cars
+
+LIN: Most electrical equipments (like Oscilloscope), connects to PCs
+GPIB (General Purpose Instrument... Bus): Older protocol for the same.
+
+
